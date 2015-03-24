@@ -2,4 +2,4 @@
 In this lesson you will work with the command line in ComputerCraft
 
 
-![Intro](https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Intro.png?raw=true)
+![Intro](https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Intro.png=100x100)
