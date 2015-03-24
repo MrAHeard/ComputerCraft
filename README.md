@@ -30,4 +30,4 @@ Unless otherwise specified, everything in this repository is covered by the foll
 
 ***ComputerCraft Lessons*** by [Allen Heard](http://www.mrheard.co.uk) is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Based on work by Seth B
+Inspired by Seth B
