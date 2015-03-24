@@ -14,7 +14,7 @@ This sequence of lessons will introduce students to variables, Boolean logic, co
 For this series of lessons you will need Minecraft/MinecraftEDU installed along with the forge mod loader and the ComputerCraft mod for version 1.7.10
 
 ###Lessons
- - [Lesson 1 - The Command Line game]()
+ - [Lesson 1 - The Command Line]()
  - [Lesson 2 – Variables and Boolean Logic]()
  - [Lesson 3 – Conditionals]()
  - [Lesson 4 – While and For Loops]()
