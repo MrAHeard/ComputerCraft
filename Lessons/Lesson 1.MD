@@ -12,19 +12,19 @@ Firstly, type ls or dir to list the files and directories (folders) stored on th
 
 To make a new directory, type mkdir followed by the name you would like your folder to have, for instance, type mkdir myfiles
 
-<a href="cd"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/cd.png" align="left" height="260" width="300" ></a>
+<a href="cd"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/cd.png" align="left" height="260" width="300" ></a><br><br><br><br><br><br><br><br><br><br>
 
 If you type ls you should now see two folders listed, one called rom which already existed, and one called myflies which you just made.
 
 Now to go into this directory you type cd (change directory) followed by the directory name so, cd myfiles
 
-![myfiles](https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/dir.png?)
+<a href="myfiles"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/dir.png" align="left" height="260" width="300" ></a><br><br><br><br><br><br><br><br><br><br>
 
 Now if you type dir or ls you can see the directory we made is empty.
 
 To go back, just type cd ..
 
-![cd..](https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/cd...png?)
+<a href="cd.."><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/cd...png" align="left" height="260" width="300" ></a><br><br><br><br><br><br><br><br><br><br>
 
 Alternatively if we wanted to delete a directory we would type rm myflies (rm - remove) we could also do this for files inside a folder
 
@@ -32,7 +32,7 @@ So now you know the basics of the turtle command line, let’s write our first p
 
 Type lua at the command line
 
-![lua](https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/lua.png?)
+<a href="lua"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/lua.png" align="left" height="260" width="300" ></a><br><br><br><br><br><br><br><br><br><br>
 
 You are now in the lua environment where you can run commands or write programs
 
