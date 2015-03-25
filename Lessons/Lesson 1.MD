@@ -114,7 +114,7 @@ At this point, if you go back into the lua environment you could check the fuel 
 
 Now try editing the refuel file to print the Fuel level if no refuelling is necessary.
 
-<a href="editRefuel"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/editRefuel.png" align="left" height="30" width="250" ></a><br>
+<a href="editRefuel"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/editRefuel.png" align="left" height="40" width="300" ></a><br>
 
 In this lesson you have been introduced to the command line, learnt how to edit files, make directories and navigate them, as well as a basic introduction to to mining turtles and built in commands. 
 
