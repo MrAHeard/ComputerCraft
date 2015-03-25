@@ -106,7 +106,7 @@ Now to run the file, type **```refuel```**
 
 You can see that the messages Checking fuel and Refuelling have printed, meaning our fuel level must be below 200, therefore it has performed a refuel. Keep running refuel until you see the message No fuel necessary.
 
-<a href="refuel2"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/refuel2.png" align="left" height="70" width="300" ></a><br><br><br><br><br><br><br><br><br><br>
+<a href="refuel2"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/refuel2.png" align="left" height="200" width="300" ></a><br><br><br><br><br><br><br><br><br><br>
 
 At this point, if you go back into the lua environment you could check the fuel level and see exactly what your fuel level is.
 
