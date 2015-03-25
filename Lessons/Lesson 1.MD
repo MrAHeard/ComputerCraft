@@ -32,7 +32,7 @@ So now you know the basics of the turtle command line, let’s write our first p
 
 Type **```lua```** at the command line
 
-<a href="lua"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/lua.png" align="left" height="160" width="300" ></a><br><br><br><br><br><br><br><br><br><br>
+<a href="lua"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/lua.png" align="left" height="160" width="300" ></a><br><br><br><br><br><br><br>
 
 You are now in the lua environment where you can run commands or write programs
 
