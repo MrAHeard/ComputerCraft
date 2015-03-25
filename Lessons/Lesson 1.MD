@@ -4,10 +4,9 @@ In computing, the command line is an important feature. It is an extremely power
 In ComputerCraft we are going to look at some common commands using the command line built in to the mining turtles.
 To access the turtles command line, right click on a turtle.
 
-<a href="Intro"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/Intro.png" align="left" height="200" width="250" ></a>
-
+<a href="Intro"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/Intro.png" align="left" height="260" width="300" ></a>
+<b></b>
 ![Intro](https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/Intro.png?)
-
 Here the command line understands certain dedicated commands designed for controlling the turtle, we can also access the lua command line by typing lua.
 
 Firstly, type ls or dir to list the files and directories (folders) stored on the turtle.
@@ -16,7 +15,7 @@ To make a new directory, type mkdir followed by the name you would like your fol
 
 ![cd](https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/cd.png?)
 
-You should now see two folders listed, one called rom which already existed, and one called mayflies which you just made.
+If you type ls you should now see two folders listed, one called rom which already existed, and one called myflies which you just made.
 
 Now to go into this directory you type cd (change directory) followed by the directory name so, cd myfiles
 
