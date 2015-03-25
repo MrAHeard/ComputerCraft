@@ -6,7 +6,7 @@ To access the turtles command line, right click on a turtle.
 
 <a href="Intro"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/Intro.png" align="left" height="260" width="300" ></a>
 <b></b>
-![Intro](https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/Intro.png?)
+
 Here the command line understands certain dedicated commands designed for controlling the turtle, we can also access the lua command line by typing lua.
 
 Firstly, type ls or dir to list the files and directories (folders) stored on the turtle.
