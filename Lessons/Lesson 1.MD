@@ -64,4 +64,4 @@ Next, check the fuel level of the turtle again, you should see that the turtle n
 
 We can now use this fuel to mine, place or move. For instance I could type **```turtle.forward()```** and the turtle would move forward one block space. In doing so, the fuel level of the turtle is reduced by one. Notice when we move forward successfully, true is printed to the screen. We will use this later in the boolean logic practical application in lesson 3.
 
-<a href="forward"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/forward.png" align="left" height="160" width="300" ></a><br><br><br><br><br><br><br><br><br><br>
+<a href="forward"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/forward.png" align="left" height="180" width="300" ></a><br><br><br><br><br><br><br><br><br><br>
