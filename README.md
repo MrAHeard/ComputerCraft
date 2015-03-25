@@ -33,8 +33,8 @@ For this series of lessons you will need Minecraft/MinecraftEDU installed along 
 
 ###Lessons
  - [Lesson 1 - The Command Line](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%201.MD)
- - [Lesson 2 – Variables and Boolean Logic]()
- - [Lesson 3 – Conditionals]()
+ - [Lesson 2 – Variables and Boolean Logic](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%202.MD)
+ - [Lesson 3 – Conditionals](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%203.MD)
  - [Lesson 4 – While and For Loops]()
  - [Lesson 5 – Communication]()
  - [Lesson 6 - Functions]()
