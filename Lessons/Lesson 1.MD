@@ -65,3 +65,21 @@ Next, check the fuel level of the turtle again, you should see that the turtle n
 We can now use this fuel to mine, place or move. For instance I could type **```turtle.forward()```** and the turtle would move forward one block space. In doing so, the fuel level of the turtle is reduced by one. Notice when we move forward successfully, true is printed to the screen. We will use this later in the boolean logic practical application in lesson 3.
 
 <a href="forward"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/forward.png" align="left" height="180" width="300" ></a><br><br><br><br><br><br><br><br><br><br>
+
+We have worked with built in turtle functions to check the fuel level, select slots, and refuel. Now we will write a program that uses and if statement to perform the action when we need it to, if statements are used to check if certain conditions are true, if so, we can get the program to do some other stuff in that event.
+
+Exit out of the lua environment by typing **```exit()```**
+
+Now using the commands you learnt earlier navigate to the directory myflies and create a new file called refuel in that location by typing edit refuel 
+
+We are now writing a program that can hold a series of instructions rather than running one at a time like we have been previously.
+
+Type the code below into the window:
+
+**```print “Checking fuel…"```***
+**```if turtle.getFuelLevel() < 200 then```*
+     turtle.refuel(1)
+     print “Refuelling"
+else
+     print “No fuel necessary"
+end```**
