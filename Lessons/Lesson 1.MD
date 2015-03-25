@@ -46,7 +46,7 @@ Now type **```turtle.getFuelLevel()```**
 
 **```getFuelLevel()```** is a function and must be types exactly like above with a capital F and L, this is the usual convention for variable names or function names containing more than one word, it makes them easier to read and understand.
 
-<a href="getFuel"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/getfuel.png" align="left" height="260" width="300" ></a><br><br><br><br><br><br><br><br><br><br>
+<a href="getFuel"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/getFuel.png" align="left" height="260" width="300" ></a><br><br><br><br><br><br><br><br><br><br>
 
 Here we can see the instruction returns 0, this is because a new turtle does not have any fuel. The 4 x 4 grid on the bottom right of the screenshot above is the turtles inventory. Items can be placed here for use, mined items will also populate these slots as the turtle mines. The slots are numbered top left to right, top to bottom so the top row of slots are 1, 2, 3, 4 and so on down to 16.
 
