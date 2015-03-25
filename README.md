@@ -18,7 +18,8 @@ There are a variety of turtles, we will be using a mining turtle.
 
 You can have basic monitors or colour monitors as well as handheld computers.
 
-<a href="handheld"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Main/handheld.png" align="middle" height="350" width="270" ></a><br><br>
+<a href="handheld"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Main/handheld.png" align="middle" height="350" width="270" ></a><br>
+
 ##Computing Programme of Study Met 
 **KS2**
  - Use sequence, selection, and repetition in programs; work with variables 
@@ -27,6 +28,8 @@ You can have basic monitors or colour monitors as well as handheld computers.
 
 ##Resources
 For this series of lessons you will need Minecraft/MinecraftEDU installed along with the forge mod loader and the ComputerCraft mod for version 1.7.10
+
+<a href="turtle"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Main/turtle.png" align="middle" height="150" width="150" ></a><br>
 
 ###Lessons
  - [Lesson 1 - The Command Line](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%201.MD)
