@@ -5,7 +5,7 @@ In ComputerCraft we are going to look at some common commands using the command 
 To access the turtles command line, right click on a turtle.
 
 <a href="Intro"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/Intro.png" align="left" height="260" width="300" ></a>
-<br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 Here the command line understands certain dedicated commands designed for controlling the turtle, we can also access the lua command line by typing lua.
 
@@ -13,7 +13,8 @@ Firstly, type ls or dir to list the files and directories (folders) stored on th
 
 To make a new directory, type mkdir followed by the name you would like your folder to have, for instance, type mkdir myfiles
 
-![cd](https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/cd.png?)
+<a href="cd"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/cd.png" align="left" height="260" width="300" ></a>
+<br><br><br><br><br><br><br><br><br><br>
 
 If you type ls you should now see two folders listed, one called rom which already existed, and one called myflies which you just made.
 
