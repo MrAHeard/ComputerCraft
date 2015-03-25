@@ -97,4 +97,4 @@ Now type **```a = not a```** and check what is displayed. This kind of notation 
 
 In the next lesson we will look at a practical example of this.
 
-Move on to Lesson 3
+Move on to [Lesson 3](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%203.MD)
