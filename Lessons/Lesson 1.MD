@@ -64,7 +64,7 @@ Next, check the fuel level of the turtle again, you should see that the turtle n
 
 We can now use this fuel to mine, place or move. For instance I could type **```turtle.forward()```** and the turtle would move forward one block space. In doing so, the fuel level of the turtle is reduced by one. Notice when we move forward successfully, true is printed to the screen. We will use this later in the boolean logic practical application in lesson 3.
 
-<a href="forward"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/forward.png" align="left" height="180" width="300" ></a><br><br><br><br><br><br><br><br><br><br>
+<a href="forward"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/forward.png" align="left" height="180" width="300" ></a><br><br><br><br>
 
 We have worked with built in turtle functions to check the fuel level, select slots, and refuel. Now we will write a program that uses and if statement to perform the action when we need it to, if statements are used to check if certain conditions are true, if so, we can get the program to do some other stuff in that event.
 
@@ -84,3 +84,38 @@ else
      print “No fuel necessary"
 end
 ```
+**Explanation of the code**
+A print statement Checking fuel… prints the text out to the console.
+
+The if statement checks to see if the current fuel level of the turtle is below 200, if so it will refuel with one item from the current selected slot and print Refuelling.
+If the fuel level is not lower than 200, the message No fuel necessary is printed.
+
+To save this file press Ctrl to access the menu, move (using arrow keys) to Save and press enter.
+
+<a href="noFuel"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/noFuel.png" align="left" height="180" width="300" ></a><br><br><br><br><br><br><br>
+
+Press Ctrl again and choose Exit 
+
+If you type **```ls```** or **```dir```** you will see the file you have just saved.
+
+<a href="ls2"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/ls2.png" align="left" height="50" width="300" ></a><br><br>
+
+Now to run the file, type **```refuel```**
+
+<a href="refuel"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/runRefuel.png" align="left" height="70" width="300" ></a><br><br>
+
+You can see that the messages Checking fuel and Refuelling have printed, meaning our fuel level must be below 200, therefore it has performed a refuel. Keep running refuel until you see the message No fuel necessary.
+
+<a href="refuel2"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/refuel2.png" align="left" height="70" width="300" ></a><br><br><br><br><br><br><br><br><br><br>
+
+At this point, if you go back into the lua environment you could check the fuel level and see exactly what your fuel level is.
+
+<a href="refuel2"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/getFuel2.png" align="left" height="70" width="300" ></a><br><br><br><br><br><br>
+
+Now try editing the refuel file to print the Fuel level if no refuelling is necessary.
+
+<a href="editRefuel"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/editRefuel.png" align="left" height="70" width="300" ></a><br>
+
+In this lesson you have been introduced to the command line, learnt how to edit files, make directories and navigate them, as well as a basic introduction to to mining turtles and built in commands. 
+
+Now move on to Lesson 2 where you will get the turtle moving around and placing blocks, learning about variables and Boolean logic.
