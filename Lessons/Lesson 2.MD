@@ -49,7 +49,7 @@ If you type **```true```** this obviously evaluates to true so this will be prin
 
 If you type **```x =10<15```** a boolean value from the evaluation of that expression will now be stored in the variable x Type **```x```** and it will display true because it will tell you whether or not 10 is lower than 15.
 
-<a href="x"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%202%20Images/c.png" align="left" height="220" width="360" ></a><br><br><br><br><br><br><br><br>
+<a href="x"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%202%20Images/c.png" align="left" height="220" width="360" ></a><br><br><br><br><br><br><br><br><br>
 
 If you were to type **```g = 5>4```** what do you think it should display? Try it, was you right?
 
@@ -77,3 +77,24 @@ Using what you have learned so far, what would be the truth table for AND?
 
 <a href="OR"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%202%20Images/and.png" align="left" height="220" width="360" ></a><br><br><br><br><br><br><br><br><br>
 
+To see this applied in actual code where conditions cause things to happen we could try the following:
+
+We know in our examples that x is true, we also know g is false
+
+So in lua type: **```if g then print “Yes” else print “No” end```**
+
+<a href="if"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%202%20Images/d.png" align="left" height="220" width="360" ></a><br><br><br><br><br><br><br><br><br>
+
+To break this down, basically if g is true (it is after all holding a boolean value so we can do this) then Yes will be printed, otherwise No will be printed. What is going to happen? Try it.
+
+Now type the same command using x instead of g. What happens? Do you understand why?
+
+The last logical operator we are going to look at is **NOT** so if we were to type **```not true```** then false would be displayed, and in contrast to this if we type **```not false```** then true would be displayed, this makes sense when we say it too!
+
+If you type **```a = true```** and check the value of **```a```** it would print true. 
+
+Now type **```a = not a```** and check what is displayed. This kind of notation would flip the value held in **```a```** 
+
+In the next lesson we will look at a practical example of this.
+
+Move on to Lesson 3
