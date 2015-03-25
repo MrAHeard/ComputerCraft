@@ -38,7 +38,7 @@ Now type **```t = “test"```**
 
 Typing **```t```** will return the value assigned to t
 
-<a href="n"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%203%20Images/b.png" align="left" height="220" width="350" ></a><br><br><br><br><br><br><br><br><br>
+<a href="n"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%203%20Images/b.png" align="left" height="240" width="380" ></a><br><br><br><br><br><br><br><br><br><br>
 
 If you now do an equality test to see if **```t == ‘test”```** you will see true printed. This is because we assigned the value test to the variable t
 
