@@ -1,4 +1,6 @@
 # ComputerCraft
+
+<a href="Logo"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Main/Logo.png" align="middle" height="100" width="550" ></a><br><br><br><br><br><br><br><br><br><br>
 Lessons for introducing coding skills using the Minecraft mod ComputerCraft
 
 #Introduction
