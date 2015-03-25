@@ -75,11 +75,12 @@ Now using the commands you learnt earlier navigate to the directory myflies and 
 We are now writing a program that can hold a series of instructions rather than running one at a time like we have been previously.
 
 Type the code below into the window:
-
-**```print “Checking fuel…"```***
-**```if turtle.getFuelLevel() < 200 then```*
+```
+print “Checking fuel…"
+if turtle.getFuelLevel() < 200 then
      turtle.refuel(1)
      print “Refuelling"
 else
      print “No fuel necessary"
-end```**
+end
+```
