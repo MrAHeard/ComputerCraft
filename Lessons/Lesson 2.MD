@@ -1,4 +1,4 @@
-##Lesson 2
+##Lesson 2 - Variables and Boolean Logic
 
 In this lesson you will learn about Variables and Boolean Logic.
 
