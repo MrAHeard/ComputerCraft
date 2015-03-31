@@ -63,7 +63,7 @@ Try it!
 
 A for loop is a great way to run some code a set amount of times, so long as you know how many times you want to run it.
 
-Let's write another program, create a new file called itemCount you also need to make sure you have some items in some of the slots so we can test our program is working.
+Let's write another program, create a new file called itemCount. You also need to make sure you have some items in some of the slots so we can test our program is working.
 
 ```
 total = 0 
@@ -76,17 +76,10 @@ print ("I have " .. total .. " items")
 ```
 <a href="itemCount"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/itemCount.png" align="left" height="180" width="300" ></a><br><br><br><br><br><br><br>
 
-When you run your program it will count the items in slot 1, then slot two, all the way to slot 16. All the time adding them together and updating the value of total along the way.
+When you run your program it will count the items in slot 1, then slot two, all the way to slot 16. All the time adding them together and updating the value of total along the way. Once slot value is 16, the last iteration of the adding of items is completed and the loop ends.
 
 <a href="itemCountRun"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/itemCountRun.png" align="left" height="300" width="350" ></a><br><br><br><br><br><br><br><br><br><br><br><br>
 
 You can chek this worked by adding up the items in the slots.
 
-In the next lesson we will look at 
-Copying files
-Disk drives
-
-Sending messages between computers with wireless modems
-
-Functions
-Make a castle
+In lesson 5 we will look at functions.
