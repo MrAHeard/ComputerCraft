@@ -6,17 +6,34 @@ A while loop takes the form of **```while boolean do code end```** so an example
 
 You can also put more than one instruction in the command so as well as turning left you could get the turtle turnig right. **```while true do turtle.turnRight() turtle.turnRight() end```**
 
-When we are using while loops we can use expressions as the boolean condition, let's recap those. If we take the expression **```3 == 3```** the double = is a test for equality, so is the same value on both sides. In this case it is so this would evaluate to true. 
-
-4 < 2 would evaluate to false as 4 is not lower than 2.
-
-
-
-
-
 In previous lessons you learned how to refuel a turtle and select a slot to use for this as well as placing blocks. During this lesson we will refuel a turtle and use a loop to build a structure. Find a suitable place in your world to make a bridge and place a turtle down.
 
-First, ensure you have some fuel of some kind in slot 1 of your turtle. Then add the maximum amount of cobblestone to slot 2.
+First, ensure you have some fuel of some kind in slot 1 of your turtle. Then add the maximum amount of cobblestone to slot 2. Right click on the turtle. We will now write a program that does two things:
+
+- Checks if there are items in slot 2
+
+- Checks if the turtle is out of fuel
+
+Create a new file called Bridge (**```edit Bridge```**)
+
+```
+turtle.select(2)
+
+while turtle.getItemCount ~= 0 and turtle.getFuelLevel() ~= 0 do 
+```
+
+The first line of code above selects the turtle's second slot. The while loop checks there are items in slot 2 and it also checks that the turtle has got fuel. While those condiotns are both true, the code inside the loop will repeatedly run, this code is as follows:
+
+```
+  turtle.placeDown()
+  turtle.forward()
+end
+```
+You must indent (move inwards) the code as above, whatever is indented will be the run in the loop.
+
+Save the program and run it.
+
+
 
 
 While and for loops
