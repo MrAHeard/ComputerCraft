@@ -4,7 +4,7 @@ During this lesson we are going to look at loops. When programming, a loop is a 
 
 A while loop takes the form of **```while boolean do code end```** so an example would be **```while true do turtle.turnRight() end```** If you type this code into the lua environment of the turtle it would run forever as true is always true. To terminate the program, right click the turlte and click ctrl t.
 
-You can also put more than one instruction in the command so as well as turning left you could get the turtle turnig right. **```while true do turtle.turnRight() turtle.turnRight() end```**
+You can also put more than one instruction in the command so as well as turning right you could get the turtle turning left. **```while true do turtle.turnRight() turtle.turnRight() end```**
 
 In previous lessons you learned how to refuel a turtle and select a slot to use for this as well as placing blocks. During this lesson we will refuel a turtle and use a loop to build a structure. Find a suitable place in your world to make a bridge and place a turtle down.
 
