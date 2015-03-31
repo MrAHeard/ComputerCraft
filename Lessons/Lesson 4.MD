@@ -70,8 +70,13 @@ total = 0
 
 for slot 1, 16 do
   total = total + turtle.getItemCount(slot)
-```
+end
 
+print ("I have " .. total .. " items")
+```
+<a href="itemCount"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/itemCount.png" align="left" height="220" width="300" ></a><br><br><br><br><br><br><br>
+
+When you run your program it will count the items in slot 1, then slot two, all the way to slot 16. All the time adding them together and updating the value of total along the way.
 
 While and for loops
 Bridge
