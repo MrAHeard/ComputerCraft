@@ -59,7 +59,7 @@ The code then adds one to num and runs the code inside the loop again, this time
 
 Try it!
 
-
+<a href="Count"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/count.png" align="left" height="180" width="300" ></a><br><br><br><br><br><br><br>
 
 While and for loops
 Bridge
