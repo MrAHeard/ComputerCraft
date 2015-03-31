@@ -1,4 +1,4 @@
-##Lesson 4
+##Lesson 4 - Loops
 
 During this lesson we are going to look at loops. When programming, a loop is a piece of code that you can choose to run while a certain condition remains or you can run a loop for as many times as you wish before breaking out and doing something else. Firstly, let's look at a while loop.
 
