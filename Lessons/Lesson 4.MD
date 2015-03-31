@@ -33,11 +33,11 @@ You must indent (move inwards) the code as above, whatever is indented will be t
 
 <a href="Bridge"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/Bridge.png" align="left" height="180" width="300" ></a><br><br><br><br><br><br><br>
 
-Save the program but before you run it, check your turtle is facing the right way, if not you can run the built in program **```turn right```** or **```turn left```*** to get it pointing the right way. Now run your program, your turtle should now repeatedly place a block beneath it and move forward producing a bridge.
+Save the program but before you run it, check your turtle is facing the right way, if not you can run the built in program **```turn right```** or **```turn left```** to get it pointing the right way. Now run your program, your turtle should now repeatedly place a block beneath it and move forward producing a bridge.
 
 <a href="Bridge building"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/Bridge2.png" align="left" height="360" width="600" ></a><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-If the turtle was to run out of items in slot 1 or the turtle was to run out of fuel, the while condition would be broken and the program would stop. That is how while loops work.
+If the turtle was to run out of items in slot 1 or the turtle was to run out of fuel, the while condition would be broken and the program would stop. That is how while loops work. If the turtle was to run into an obstacle before these conditions became true, the turtle would just stop.
 
 We will now look at for loops.
 
