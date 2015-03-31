@@ -36,8 +36,8 @@ For this series of lessons you will need Minecraft/MinecraftEDU installed along 
  - [Lesson 2 – Variables and Boolean Logic](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%202.MD)
  - [Lesson 3 – Conditionals](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%203.MD)
  - [Lesson 4 – While and For Loops](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%204.MD)
- - [Lesson 5 – Communication]()
- - [Lesson 6 - Functions]()
+ - [Lesson 5 – Functions](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%205.MD)
+ - [Lesson 6 - ComputerCraft Communications]()
  - [Lesson 7 - File Management in ComputerCraft]()
 
 # Licence
