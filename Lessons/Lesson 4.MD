@@ -78,9 +78,11 @@ print ("I have " .. total .. " items")
 
 When you run your program it will count the items in slot 1, then slot two, all the way to slot 16. All the time adding them together and updating the value of total along the way.
 
-<a href="itemCountRun"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/itemCountRun.png" align="left" height="180" width="300" ></a><br><br><br><br><br><br><br>
+<a href="itemCountRun"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/itemCountRun.png" align="left" height="300" width="350" ></a><br><br><br><br><br><br><br><br><br><br><br><br>
 
+You can chek this worked by adding up the items in the slots.
 
+In the next lesson we will look at 
 Copying files
 Disk drives
 
