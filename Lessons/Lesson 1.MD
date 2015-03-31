@@ -1,4 +1,4 @@
-##Lesson 1
+##Lesson 1 - Command Line
 In computing, the command line is an important feature. It is an extremely powerful tool and if not used carefully you could do serious damage.
 
 In ComputerCraft we are going to look at some common commands using the command line built in to the mining turtles.
