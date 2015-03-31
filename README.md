@@ -32,7 +32,7 @@ For this series of lessons you will need Minecraft/MinecraftEDU installed along 
 <a href="turtle"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Main/turtle.png" align="middle" height="150" width="150" ></a><br>
 
 ###Lessons
- - [Lesson 1 - The Command Line](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%201.MD)
+ - [Lesson 1 - Command Line and Conditionals](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%201.MD)
  - [Lesson 2 – Variables and Boolean Logic](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%202.MD)
  - [Lesson 3 – Logical Expressions](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%203.MD)
  - [Lesson 4 – While and For Loops](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%204.MD)
