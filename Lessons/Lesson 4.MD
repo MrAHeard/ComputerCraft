@@ -46,7 +46,7 @@ For loops work a little bit differently as they don't work on boolean conditions
 Let's start with an example, create a new file called count and type the following:
 ```
 for num = 3, 10 do
-  print num
+  print (num)
 end
 ```
 <a href="For loop"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/for.png" align="left" height="180" width="300" ></a><br><br><br><br><br><br><br>
