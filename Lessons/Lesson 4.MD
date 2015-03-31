@@ -33,8 +33,9 @@ You must indent (move inwards) the code as above, whatever is indented will be t
 
 <a href="Bridge"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/Bridge.png" align="left" height="180" width="300" ></a><br><br><br><br><br><br><br>
 
-Save the program and run it.
+Save the program and run it. Your turtle should now repeatedly place a block beneath it and move forward producing a bridge.
 
+<a href="Bridge building"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/Bridge2.png" align="left" height="360" width="600" ></a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
