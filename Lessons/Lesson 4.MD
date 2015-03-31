@@ -33,10 +33,32 @@ You must indent (move inwards) the code as above, whatever is indented will be t
 
 <a href="Bridge"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/Bridge.png" align="left" height="180" width="300" ></a><br><br><br><br><br><br><br>
 
-Save the program and run it. Your turtle should now repeatedly place a block beneath it and move forward producing a bridge.
+Save the program but before you run it, check your turtle is facing the right way, if not you can run the built in program **```turn right```** or **```turn left```*** to get it pointing the right way. Now run your program, your turtle should now repeatedly place a block beneath it and move forward producing a bridge.
 
 <a href="Bridge building"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/Bridge2.png" align="left" height="360" width="600" ></a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-a
+
+If the turtle was to run out of items in slot 1 or the turtle was to run out of fuel, the while condition would be broken and the program would stop. That is how while loops work.
+
+We will now look at for loops.
+
+For loops work a little bit differently as they don't work on boolean conditions. 
+
+Let's start with an example, create a new file called count and type the following:
+```
+for num = 3, 10 do
+  print num
+end
+```
+<a href="For loop"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/for.png" align="left" height="180" width="300" ></a><br><br><br><br><br><br><br>
+
+In this loop we still have a do and an end, we also have some code in the middle that will be repeatedly run.
+
+The code **```for num = 3, 10 do```** creates a variable called num and sets it to the value 3. It then runs the **```print (num)```** so it will print 3. 
+
+The code then adds one to num and runs the code inside the loop again, this time printing 4. The code will continue to repeat in this manner until num = 10 as in the first line of code.
+
+Try it!
+
 
 
 While and for loops
