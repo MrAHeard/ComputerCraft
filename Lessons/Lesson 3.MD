@@ -1,4 +1,4 @@
-##Lesson 3
+##Lesson 3 - Logical Expressions
 
 Remember in lesson 1 where we moved a turtle forward using the command **```turtle.forward()```**? If the turtle could successfully move (nothing was in its path) then true would be printed to the screen. If something was in the way and it was unable to move, then false would be printed to the screen.
 
