@@ -22,7 +22,7 @@ turtle.select(2)
 while turtle.getItemCount ~= 0 and turtle.getFuelLevel() ~= 0 do 
 ```
 
-The first line of code above selects the turtle's second slot. The while loop checks there are items in slot 2 and it also checks that the turtle has got fuel. While those condiotns are both true, the code inside the loop will repeatedly run, this code is as follows:
+The first line of code above selects the turtle's second slot. The while loop checks there are items in slot 2 (item count not equal to 0, ~= 0 ) and it also checks that the turtle has got fuel (fuel level not equal to 0,  ~= 0). While those condiotns are both true, the code inside the loop will repeatedly run, this code is as follows:
 
 ```
   turtle.placeDown()
@@ -60,6 +60,18 @@ The code then adds one to num and runs the code inside the loop again, this time
 Try it!
 
 <a href="Count"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/count.png" align="left" height="180" width="300" ></a><br><br><br><br><br><br><br>
+
+A for loop is a great way to run some code a set amount of times, so long as you know how many times you want to run it.
+
+Let's write another program, create a new file called itemCount you also need to make sure you have some items in some of the slots so we can test our program is working.
+
+```
+total = 0 
+
+for slot 1, 16 do
+  total = total + turtle.getItemCount(slot)
+```
+
 
 While and for loops
 Bridge
