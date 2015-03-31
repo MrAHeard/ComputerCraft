@@ -1,4 +1,4 @@
-##Lesson 1 - Command Line
+##Lesson 1 - Command Line & Conditionals
 In computing, the command line is an important feature. It is an extremely powerful tool and if not used carefully you could do serious damage.
 
 In ComputerCraft we are going to look at some common commands using the command line built in to the mining turtles.
@@ -72,7 +72,7 @@ Exit out of the lua environment by typing **```exit()```**
 
 Now using the commands you learnt earlier navigate to the directory myflies and create a new file called refuel in that location by typing edit refuel 
 
-We are now writing a program that can hold a series of instructions rather than running one at a time like we have been previously.
+We are now going to write a program that can hold a series of instructions rather than running one at a time like we have been previously.
 
 Type the code below into the window:
 ```
