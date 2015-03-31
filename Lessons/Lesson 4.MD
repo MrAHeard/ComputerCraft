@@ -80,8 +80,6 @@ When you run your program it will count the items in slot 1, then slot two, all 
 
 <a href="itemCountRun"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/itemCountRun.png" align="left" height="180" width="300" ></a><br><br><br><br><br><br><br>
 
-While and for loops
-Bridge
 
 Copying files
 Disk drives
