@@ -85,6 +85,7 @@ else
 end
 ```
 **Explanation of the code**
+
 A print statement Checking fuel… prints the text out to the console.
 
 The if statement checks to see if the current fuel level of the turtle is below 200, if so it will refuel with one item from the current selected slot and print Refuelling.
