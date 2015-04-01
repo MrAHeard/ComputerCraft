@@ -92,6 +92,16 @@ You must keep the rest of this function the same.
 
 So what have we done? We are now passing a value between functions and in the process we have made the program easier to understand. Now, if the turtle needs fuel it will refuel. It does this by passing a true or false value from the needsFuel function so **```if needsFuel()```** then becomes **```if true then```**
 
-Can you now write your own program that creates a tower exactly 10 blocks high using what you have learned so far?
+#Function Challenges
 
-Now move on to [lesson 6](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%206.MD)
+Can you now write a program that:
+
+  - creates a tower exactly 10 blocks high?
+
+  - digs a hole 2x2 squares big
+  
+  - moves forward yet places a block behind it as it moves (this one is tricky), to make it even trickier, can you      make it place the same block it dug up in the first place> (super skills required!)
+
+
+
+Now move on to [lesson 6](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%206.MD) where we will look at other elements of ComputerCraft.
