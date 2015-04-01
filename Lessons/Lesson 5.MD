@@ -1,4 +1,4 @@
-Lesson 5 - Functions
+##Lesson 5 - Functions
 
 In programming, a function is a collection of code grouped together that will only be executed (run) when you specifically want it to be.
 
@@ -94,4 +94,4 @@ So what have we done? We are now passing a value between functions and in the pr
 
 Can you now write your own program that creates a tower exactly 10 blocks high using what you have learned so far?
 
-Now move on to lesson 6
+Now move on to [lesson 6](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%206.MD)
