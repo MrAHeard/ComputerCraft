@@ -19,6 +19,8 @@ while true do
   turnAround()
 end
 ```
+<a href="Dance"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%205%20Images/dance.png" align="left" height="200" width="350" ></a><br><br><br><br><br><br><br><br>
+
 The while loop will run forever (true is always true remember) and move the turtle forward, it will then run (or call) the function turnAround which will run the code inside the turnAround function then it will jump back into the while loop and carry on.
 
 Save the file and run it. Remember you will need to hold Ctrl T to terminate the program.
