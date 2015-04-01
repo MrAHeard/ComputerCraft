@@ -104,4 +104,4 @@ Can you now write a program that:
 
 
 
-Now move on to [lesson 6](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%206.MD) where we will look at other elements of ComputerCraft.
+Now move on to [lesson 6](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%206.MD) where we will look at ComputerCraft Communications.
