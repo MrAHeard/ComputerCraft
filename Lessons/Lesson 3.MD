@@ -64,4 +64,4 @@ What would be the result of the following expressions:
 
 112 + (3 * 15) ~= ((2 * 50) + (4 * 12 ) + 1)
 ```
-Move on the lesson 4 to learn about while and for loops.
+Now move on to [lesson 4](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%204.MD) to learn about while and for loops.
