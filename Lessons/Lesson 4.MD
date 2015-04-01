@@ -82,4 +82,4 @@ When you run your program it will count the items in slot 1, then slot two, all 
 
 You can chek this worked by adding up the items in the slots.
 
-In lesson 5 we will look at functions.
+In [lesson 5](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%205.MD) we will look at functions.
