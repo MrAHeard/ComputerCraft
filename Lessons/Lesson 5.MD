@@ -96,7 +96,7 @@ So what have we done? We are now passing a value between functions and in the pr
 
 Can you now write a program that:
 
-  - creates a tower exactly 10 blocks high?
+  - creates a tower exactly 10 blocks high
 
   - digs a hole 2x2 squares big
   
