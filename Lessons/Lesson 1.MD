@@ -119,4 +119,4 @@ Now try editing the refuel file to print the Fuel level if no refuelling is nece
 
 In this lesson you have been introduced to the command line, learnt how to edit files, make directories and navigate them, as well as a basic introduction to to mining turtles and built in commands. 
 
-Now move on to [lesson 2](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%202.MD)Lesson 2 where you will get the turtle moving around and placing blocks, learning about variables and Boolean logic.
+Now move on to [lesson 2](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%202.MD) where you will get the turtle moving around and placing blocks, learning about variables and Boolean logic.
