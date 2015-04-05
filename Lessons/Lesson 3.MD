@@ -30,11 +30,11 @@ The if statement beneath will then evaluate the three variables for truth and if
 
 Now test your program by typing **```move3```**
 
-We know we can perform mathematical calculations when programming, for instance typing **```3 + 4```** would result in a printout of **```7```**. What we will now look at is testing for equality.
+We know we can perform mathematical calculations when programming, for instance typing **```3 + 4```** would result in a printout of **```7```**. We will now look at testing for equality.
 
 Type **```3 == 3```** what is printed to the screen?
 
-This statement is returning a boolean value based on the value on the left of the double equals signs compared to the value on the right, similar to saying is 3 equal to 3, which in this case is, so true is printed.
+This statement is returning a boolean value based on the value on the left of the double equals signs compared to the value on the right, similar to saying 'is 3 equal to 3?', which in this case it is, so true is printed.
 
 Now type **```t = “test"```**
 
@@ -48,7 +48,7 @@ You can also type **```“test” == t```** and true will also be printed, do yo
 
 Try typing **```t == “wrong”```** what will be printed and why?
 
-In lesson 2 we ended the lesson by looking at NOT. We can code not in lua by typing the **```~```** sign (tilde) so if you were to write **```2~=3```** this is the same as saying is 2 not equal to 3.
+In lesson 2 we ended the lesson by looking at NOT. We can code not in lua by typing the **```~```** sign (tilde) so if you were to write **```2~=3```** this is the same as saying 'is 2 not equal to 3?'
 
 2 isn’t equal to 3 so true should be displayed. Try it.
 
