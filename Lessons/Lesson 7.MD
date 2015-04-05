@@ -10,7 +10,7 @@ To transfer a program from a disk to a turtle, place a disk drive next to the tu
 
 Your task in this lesson is to use what you have learned in the previous 6 lessons to write programs that will create the structures shown below. You will need to look at the [turtle API here](http://computercraft.info/wiki/Turtle_%28API%29) for commands to make a turtle go up/down
 
-You could use the pre-made [ComputerCraft Map](https://github.com/AllenHeard/ComputerCraft/blob/master/ComputerCraft%20World/ComputerCraft.zip) here complete with challenge stations or you can look at the image sbelow.
+You could use the pre-made [ComputerCraft Map](https://github.com/AllenHeard/ComputerCraft/blob/master/ComputerCraft%20World/ComputerCraft.zip) here complete with challenge stations or you can look at the images below.
 
 ##Challenge 1
 
