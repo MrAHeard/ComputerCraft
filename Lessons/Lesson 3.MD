@@ -1,5 +1,7 @@
 ##Lesson 3 - Logical Expressions
 
+[Main Menu] (https://github.com/AllenHeard/ComputerCraft/blob/master/README.md)
+
 Remember in lesson 1 where we moved a turtle forward using the command **```turtle.forward()```**? If the turtle could successfully move (nothing was in its path) then true would be printed to the screen. If something was in the way and it was unable to move, then false would be printed to the screen.
 
 <a href="n"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%203%20Images/a.png" align="left" height="220" width="350" ></a><br><br><br><br><br><br><br><br><br>
