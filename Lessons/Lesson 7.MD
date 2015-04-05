@@ -4,7 +4,7 @@
 
 In this lesson you will use what you have learned so far to complete some programming challenges. It is wise to write the files onto a disk first and copy them to a turtle when you are ready. If you destroy the turtle by accident you will still have a backup on the disk.
 
-To transfer a program from a disk to a turtle, place a disk drive next to the turtle and twrite the program as you did in lesson 6 then to copy the ifle to the turtle type **```cp disk/program_name turtle_program_name```**
+To transfer a program from a disk to a turtle, place a disk drive next to the turtle and twrite the program as you did in lesson 6 then to copy the file to the turtle type **```cp disk/program_name turtle_program_name```**
 
 <a href="cp"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%207%20Images/cp.png" align="left" height="313" width="500" ></a><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
