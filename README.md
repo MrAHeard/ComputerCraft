@@ -42,6 +42,8 @@ For this series of lessons you will need Minecraft/MinecraftEDU installed along 
  - [Lesson 6 - ComputerCraft Communications](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%206.MD)
  - [Lesson 7 - Programming Challenges](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%207.MD)
  
+Ensure you take regular breaks when using a computer. Only use your system, do not interfere with someone elses work, if working on a multiplayer system - no 'griefing' allowed.
+
 # Licence
 
 Unless otherwise specified, everything in this repository is covered by the following licence:
