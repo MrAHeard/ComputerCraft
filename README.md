@@ -6,6 +6,8 @@ Lessons for introducing coding skills using the Minecraft mod ComputerCraft
 #Introduction
 This sequence of lessons will introduce students to variables, Boolean logic, conditionals, and loops using the various computer themed blocks in ComputerCraft, a mod created for Minecraft that adds computers, monitors, modems, turtles, and more! ComputerCraft’s computers and turtles are programmed with the easy-to-learn Lua programming language.
 
+There is a ComputerCraft Map ready made with terminals set up and challenges ready for when you reach lesson 7, it is not necessary to use it, however if you would like a copy you can download it [here](https://github.com/AllenHeard/ComputerCraft/blob/master/ComputerCraft%20World/ComputerCraft.zip).
+
 <a href="elements"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Main/elements.png" align="middle" height="250" width="300" ></a><br>
 
 ComputerCraft items are placed in the word in the same was as normal blocks. Monitor blocks can be built up to make large multi-block monitors.
