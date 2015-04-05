@@ -87,4 +87,4 @@ If you now run the receive program first on one machine, then proceed to run the
 
 Using this simple example of transmitting on a channel and providing a reply channel and a message you can see how communication can take place between devices.
 
-In the lesson 7 you will use what you have learned so far to complete some programming challenges.
+In the [lesson 7] (https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%207.MD) you will use what you have learned so far to complete some programming challenges.
