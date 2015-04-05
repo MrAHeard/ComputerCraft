@@ -38,7 +38,7 @@ For this series of lessons you will need Minecraft/MinecraftEDU installed along 
  - [Lesson 4 – While and For Loops](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%204.MD)
  - [Lesson 5 – Functions](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%205.MD)
  - [Lesson 6 - ComputerCraft Communications](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%206.MD)
- - [Lesson 7 - File Management in ComputerCraft]()
+ - [Lesson 7 - Programming Challenges](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%207.MD)
  
 # Licence
 
