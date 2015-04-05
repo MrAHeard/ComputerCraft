@@ -24,7 +24,7 @@ turtle.select(2)
 while turtle.getItemCount ~= 0 and turtle.getFuelLevel() ~= 0 do 
 ```
 
-The first line of code above selects the turtle's second slot. The while loop checks there are items in slot 2 (item count not equal to 0, ~= 0 ) and it also checks that the turtle has got fuel (fuel level not equal to 0,  ~= 0). While those condiotns are both true, the code inside the loop will repeatedly run, this code is as follows:
+The first line of code above selects the turtle's second slot. The while loop checks there are items in slot 2 (item count not equal to 0, ~= 0 ) and it also checks that the turtle has got fuel (fuel level not equal to 0,  ~= 0). While those conditions are both true, the code inside the loop will repeatedly run, this code is as follows:
 
 ```
   turtle.placeDown()
@@ -35,7 +35,7 @@ You must indent (move inwards) the code as above, whatever is indented will be t
 
 <a href="Bridge"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/Bridge.png" align="left" height="180" width="300" ></a><br><br><br><br><br><br><br>
 
-Save the program but before you run it, check your turtle is facing the right way, if not you can run the built in program **```turn right```** or **```turn left```** to get it pointing the right way. Now run your program, your turtle should now repeatedly place a block beneath it and move forward producing a bridge.
+Save the program, but before you run it, check your turtle is facing the right way, if not you can run the built in program **```turn right```** or **```turn left```** to get it pointing the right way. Now run your program, your turtle should now repeatedly place a block beneath it and move forward producing a bridge.
 
 <a href="Bridge building"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/Bridge2.png" align="left" height="360" width="600" ></a><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -82,6 +82,6 @@ When you run your program it will count the items in slot 1, then slot two, all 
 
 <a href="itemCountRun"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%204%20Images/itemCountRun.png" align="left" height="300" width="350" ></a><br><br><br><br><br><br><br><br><br><br><br><br>
 
-You can chek this worked by adding up the items in the slots.
+You can check this worked by adding up the items in the slots yourself.
 
 In [lesson 5](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%205.MD) we will look at functions.
