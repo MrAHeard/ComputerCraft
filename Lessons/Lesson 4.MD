@@ -1,5 +1,7 @@
 ##Lesson 4 - Loops
 
+[Main Menu] (https://github.com/AllenHeard/ComputerCraft/blob/master/README.md)
+
 During this lesson we are going to look at loops. When programming, a loop is a piece of code that you can choose to run while a certain condition remains or you can run a loop for as many times as you wish before breaking out and doing something else. Firstly, let's look at a while loop.
 
 A while loop takes the form of **```while boolean do code end```** so an example would be **```while true do turtle.turnRight() end```** If you type this code into the lua environment of the turtle it would run forever as true is always true. To terminate the program, right click the turlte and click ctrl t.
