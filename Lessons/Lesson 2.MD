@@ -1,5 +1,7 @@
 ##Lesson 2 - Variables and Boolean Logic
 
+[Main Menu] (https://github.com/AllenHeard/ComputerCraft/blob/master/README.md)
+
 In this lesson you will learn about Variables and Boolean Logic.
 
 A variable in a program is something that can be given a value, this value may remain the same throughout the course of the program or alternatively it may change depending on other factors in the program. For instance a variable containing a High Score in a game would remain the same until such a time the high score is beaten. At this point, the variable would take on the new high score.
