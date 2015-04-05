@@ -39,7 +39,7 @@ For this series of lessons you will need Minecraft/MinecraftEDU installed along 
  - [Lesson 5 – Functions](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%205.MD)
  - [Lesson 6 - ComputerCraft Communications]()
  - [Lesson 7 - File Management in ComputerCraft]()
-
+ 
 # Licence
 
 Unless otherwise specified, everything in this repository is covered by the following licence:
