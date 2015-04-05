@@ -87,6 +87,10 @@ If you now run the receive program first on one machine, then proceed to run the
 
 <a href="receive"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%206%20Images/receive.png" align="left" height="313" width="500" ></a><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-Using this simple example of transmitting on a channel and providing a reply channel and a message you can see how communication can take place between devices.
+Using this simple example of transmitting on a channel and providing a reply channel and a message you can see how communication can take place between devices. 
+
+In the same way as terminals can communicate, so can the wireless handheld terminals.
+
+<a href="handheld"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Main/handheld.png" align="middle" height="350" width="270" ></a><br>
 
 In the [lesson 7] (https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%207.MD) you will use what you have learned so far to complete some programming challenges.
