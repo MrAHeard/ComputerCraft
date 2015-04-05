@@ -1,5 +1,7 @@
 ##Lesson 5 - Functions
 
+[Main Menu] (https://github.com/AllenHeard/ComputerCraft/blob/master/README.md)
+
 In programming, a function is a collection of code grouped together that will only be executed (run) when you specifically want it to be.
 
 Let's start with an example program using a turtle, go ahead and place one down if you don't have one already. Ensure it has been refuelled.
