@@ -33,7 +33,7 @@ For this series of lessons you will need Minecraft/MinecraftEDU installed along 
 
 <a href="turtle"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Main/turtle.png" align="middle" height="150" width="150" ></a><br>
 
-###Lessons
+##Lessons
  - [Lesson 1 - Command Line and Conditionals](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%201.MD)
  - [Lesson 2 – Variables and Boolean Logic](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%202.MD)
  - [Lesson 3 – Logical Expressions](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%203.MD)
@@ -44,7 +44,7 @@ For this series of lessons you will need Minecraft/MinecraftEDU installed along 
  
 Ensure you take regular breaks when using a computer. Only use your system, do not interfere with someone elses work, if working on a multiplayer system - no 'griefing' allowed.
 
-# Licence
+## Licence
 
 Unless otherwise specified, everything in this repository is covered by the following licence:
 
