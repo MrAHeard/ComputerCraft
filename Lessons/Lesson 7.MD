@@ -12,4 +12,4 @@ Your task in this lesson is to use what you have learned in the previous 6 lesso
 
 ##Challenge 1
 
-<a href="1"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%207%20Images/1.png" align="left" height="313" width="500" ></a><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<a href="1"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%207%20Images/3.png" align="left" height="313" width="500" ></a><br><br><br><br><br><br><br><br><br><br><br><br><br>
