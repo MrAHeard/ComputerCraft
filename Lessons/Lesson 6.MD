@@ -54,7 +54,7 @@ Before we start writing our programs, we need to ensure there is a method of com
 
 <a href="modem"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%206%20Images/modem.png" align="left" height="313" width="500" ></a><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-Now you have two separate systems setup, we will write our programs. On the first machine we will write a message that will listen for a message, go ahead and create a new file called **```receive```**
+Now you have two separate systems set up, we will write our programs. On the first machine we will write a program that will listen for a message, go ahead and create a new file called **```receive```**
 
 ```
 local modem = peripheral.wrap("back")
@@ -63,7 +63,6 @@ local event, modemSide, senderChannel, replyChannel, message, senderDistance = o
 local monitor = peripheral.wrap("left")
 monitor.write("The message was: " ..message)
 ```
-
 Modem and monitor added as before in our earlier program on lines 1 and 4 however the modem is attached at the back.
 
 **```modem.open(3)```** opens the channel that we are going to send our message on. You can only open 128 channels at any given time and the maximum channel you can open is 65535.
@@ -77,8 +76,8 @@ modem.transmit (3, 1, "Hello World!")
 local monitor = peripheral.wrap("left")
 monitor.write("Sending...")
 ```
-
 We use **```modem.transmit(channel, replyChannel, message)```** in order to send the message. The reply channel is captured by the listening computer and suggests which channel they should reply on.
+
 At the end we write a confirmation message on to the monitor indicating what we are doing.
 
 <a href="send"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%206%20Images/send.png" align="left" height="313" width="500" ></a><br><br><br><br><br><br><br><br><br><br><br><br><br>
