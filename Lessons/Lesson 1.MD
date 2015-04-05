@@ -17,7 +17,7 @@ To make a new directory, type **```mkdir```** followed by the name you would lik
 
 <a href="cd"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/cd.png" align="left" height="260" width="300" ></a><br><br><br><br><br><br><br><br><br><br>
 
-If you type ls you should now see two folders listed, one called rom which already existed, and one called myflies which you just made.
+If you type ls you should now see two folders listed, one called rom which already existed, and one called myfiles which you just made.
 
 Now to go into this directory you type cd (change directory) followed by the directory name so, **```cd myfiles```**
 
@@ -37,9 +37,9 @@ Type **```lua```** at the command line
 
 <a href="lua"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/lua.png" align="left" height="160" width="300" ></a><br><br><br><br><br><br>
 
-You are now in the lua environment where you can run commands or write programs
+You are now in the lua environment where you can run commands or write programs.
 
-To create a new file we need to type edit, followed by the name we would like to give to the file, so let’s go ahead and type **```edit refuel```** this will create a blank file that we can write a program in for running later on.
+To create a new file we need to type edit followed by the name we would like to give to the file, so let’s go ahead and type **```edit refuel```** this will create a blank file that we can write a program in for running later on.
 
 During these lessons well will be using the devices API (application programming interface - a collection of code that, rather than being run directly by the user as a program, is meant to be used by other programs) for use in ComputerCraft that can be found on the [wiki](http://www.computercraft.info/wiki/Main_Page), for this particular task we will be using specific turtle commands that can be found on the turtle API section [here](http://www.computercraft.info/wiki/Turtle_(API)).
 
@@ -47,7 +47,7 @@ We will be using some commands for checking the fuel level and we will write a p
 
 Now type **```turtle.getFuelLevel()```**
 
-**```getFuelLevel()```** is a function and must be types exactly like above with a capital F and L, this is the usual convention for variable names or function names containing more than one word, it makes them easier to read and understand.
+**```getFuelLevel()```** is a function and must be typed exactly like above with a capital F and L, this is the usual convention for variable names or function names containing more than one word, it makes them easier to read and understand.
 
 <a href="getFuel"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%201%20Images/getFuel.png" align="left" height="260" width="300" ></a><br><br><br><br><br><br><br><br><br><br>
 
@@ -73,7 +73,7 @@ We have worked with built in turtle functions to check the fuel level, select sl
 
 Exit out of the lua environment by typing **```exit()```**
 
-Now using the commands you learnt earlier navigate to the directory myflies and create a new file called refuel in that location by typing edit refuel 
+Now using the commands you learnt earlier, navigate to the directory myfiles and create a new file called refuel in that location by typing edit refuel 
 
 We are now going to write a program that can hold a series of instructions rather than running one at a time like we have been previously.
 
