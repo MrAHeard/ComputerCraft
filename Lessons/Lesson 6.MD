@@ -64,7 +64,7 @@ monitor.write("The message was: " ..message)
 
 Modem and monitor added as before in our earlier program on lines 1 and 4 however the modem is attached at the back.
 
-**```modem.open(3)```** opens the channel that we are going to send our meessage on. You can only open 128 channels at any given time and the maximum channel you can open is 65535.
+**```modem.open(3)```** opens the channel that we are going to send our message on. You can only open 128 channels at any given time and the maximum channel you can open is 65535.
 
 **```local event, modemSide, senderChannel, replyChannel, message, senderDistance = os.pullEvent("modem_message")```** indicates the event of receiving a message complete with sender channel, reply channel and message.
 
@@ -76,7 +76,7 @@ local monitor = peripheral.wrap("left")
 monitor.write("Sending...")
 ```
 
-we then use **```modem.transmit(channel, replyChannel, message)```** in order to send the message. The reply channel is captured by the listening computer and suggests which channel they should reply on.
+We use **```modem.transmit(channel, replyChannel, message)```** in order to send the message. The reply channel is captured by the listening computer and suggests which channel they should reply on.
 At the end we write a confirmation message on to the monitor indicating what we are doing.
 
 <a href="send"><img src="https://github.com/AllenHeard/ComputerCraft/blob/master/Screenshots/Lesson%206%20Images/send.png" align="left" height="313" width="500" ></a><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -87,8 +87,4 @@ If you now run the receive program first on one machine, then proceed to run the
 
 Using this simple example of transmitting on a channel and providing a reply channel and a message you can see how communication can take place between devices.
 
-
-
-
-Functions
-Make a castle
+In the lesson 7 you will use what you have learned so far to complete some programming challenges.
