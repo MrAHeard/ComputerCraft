@@ -94,7 +94,7 @@ You must keep the rest of this function the same.
 
 So what have we done? We are now passing a value between functions and in the process we have made the program easier to understand. Now, if the turtle needs fuel it will refuel. It does this by passing a true or false value from the needsFuel function so **```if needsFuel()```** then becomes **```if true then```**
 
-#Function Challenges
+##Function Challenges
 
 Can you now write a program that:
 
@@ -103,7 +103,6 @@ Can you now write a program that:
   - digs a hole 2x2 squares big
   
   - moves forward yet places a block behind it as it moves (this one is tricky), to make it even trickier, can you      make it place the same block it dug up in the first place> (super skills required!)
-
 
 
 Now move on to [lesson 6](https://github.com/AllenHeard/ComputerCraft/blob/master/Lessons/Lesson%206.MD) where we will look at ComputerCraft Communications.
